@@ -9,5 +9,5 @@ Enter your birthday with your own lucky number to check wether you are lucky or 
 ## Language used
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
